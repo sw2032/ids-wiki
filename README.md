@@ -1,2 +1,2 @@
-# wiki.mobilizingcs.org
-Pages and media on wiki.mobilizingcs.org, now git-backed!
+# ids-wiki.mobilizingcs.org
+Pages and media on ids-wiki.mobilizingcs.org, now git-backed!
